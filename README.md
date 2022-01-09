@@ -1,3 +1,7 @@
+Technologies: HTML, CSS, Java Script, React.js, Node.js, WebPack, Fetch API  (an API of Ice and fire).
+
+Application uses a database of the Game of Thrones, when you click change the characters, books, places
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
